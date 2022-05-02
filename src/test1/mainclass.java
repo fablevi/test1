@@ -8,9 +8,9 @@ public class mainclass {
 		System.out.print(osszeg);
 	}
 
-	private static int osszead(int a, int b) {
+	private static int osszead(String a, String b) {
 		// TODO Auto-generated method stub
-		return a+b;
+		return (int) a+b;
 	}
 
 }
