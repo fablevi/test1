@@ -3,7 +3,8 @@ package test1;
 public class mainclass {
 
 	public static void main(String[] args) {
-		int osszeg = osszead (3,5);
+		int osszeg = osszead (13,5);
+		System.out.print(osszeg);
 	}
 
 	private static int osszead(int a, int b) {
