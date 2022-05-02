@@ -3,6 +3,7 @@ package test1;
 public class mainclass {
 
 	public static void main(String[] args) {
+		//localgitproba
 		int osszeg = osszead (13,5);
 		System.out.print(osszeg);
 	}
